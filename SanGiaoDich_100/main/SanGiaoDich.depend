@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1714810180 source:e:\new folder\sangiaodich\sangiaodich\sangiaodich\sangiaodichuet.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<ctime>
+	<cmath>
+	<fstream>
+	"vedohoa.h"
+	"thuattoantanggiam.h"
+	"khoplenh.h"
+
+1714802829 e:\new folder\sangiaodich\sangiaodich\sangiaodich\vedohoa.h
+
+1714802829 e:\new folder\sangiaodich\sangiaodich\sangiaodich\thuattoantanggiam.h
+
+1714808600 e:\new folder\sangiaodich\sangiaodich\sangiaodich\khoplenh.h
+
+1714802829 source:e:\new folder\sangiaodich\sangiaodich\sangiaodich\vedohoa.cpp
+

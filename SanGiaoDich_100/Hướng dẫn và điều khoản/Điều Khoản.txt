@@ -1,0 +1,3 @@
+@Bản quyền thuộc về Nhóm INT1008 Nguyễn Tùng Dương và Vũ Đăng Dương
+Thầy Trần Thầy Hải có toàn quyền quyết định sử dụng, sửa chữa, phát triển và chia sẽ từ mã nguồn gốc
+
